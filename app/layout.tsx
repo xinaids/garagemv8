@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Garagem V8 — Estética Automotiva',
-  description: 'Agende sua lavagem e serviços automotivos online',
+  description: 'Agende sua lavagem e serviços automotivos',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
